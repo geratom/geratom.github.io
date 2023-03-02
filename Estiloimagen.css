@@ -1,0 +1,48 @@
+h1{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    margin-left: 350px;
+    color:black
+   }
+
+h1{
+    font-family: "oswald";
+    font-size: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+li{
+    font-size: 15px;
+    font-family: "oswald";
+    margin-left: 50px;
+}
+
+img{
+    border-radius: 50%;
+    margin-right: 40px;
+    }
+h3{
+    font-family: "oswald";
+    text-decoration-line: underline;
+}
+
+p{
+    color: black;
+    
+    font-weight: bold;
+    width: 300px;
+    text-align: left;
+    vertical-align: left;
+}
+
+p1{
+    color: black;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    vertical-align: middle;
+}
